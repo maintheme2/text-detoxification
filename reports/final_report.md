@@ -45,3 +45,8 @@ Results of the evaluation are pretty good, especially the BLEU-score which indic
 ## Results
 
 The results indicate that the model can effectively detect and classify toxic content in text data. It successfully identifies harmful elements, including hate speech and offensive language. I think I have achieved the goals I set myself at the beginning, i.e. the model was easy to implement and train, what is more important, it is a working solution, with good metrics. 
+
+Example of detoxification: <br>
+input: "Give me your fucking money and get the fuck out of here or I swear I will kill you!"
+<br>
+output: "Give me your money and get out of here, or I swear I'll kill you!"

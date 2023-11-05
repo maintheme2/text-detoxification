@@ -5,6 +5,6 @@ o.hlopcev@innopolis.university
 
 1. Clone repo.
 2. pip install -r requirements.txt
-3. Run detoxify.py from notebooks folder (you must be in src/models dir).
+3. Run detoxify.py (you must be in src/models dir).
 4. Type the message you want to detoxify.
 5. Get the detoxified version of your message.
